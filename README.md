@@ -1,2 +1,2 @@
 # fle-processor
-Fast Log Entry input file parser using the Fast Parse library
+Fast Log Entry formatted file parser using the Fast Parse library
